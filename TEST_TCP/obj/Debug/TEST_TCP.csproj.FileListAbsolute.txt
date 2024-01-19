@@ -1,0 +1,13 @@
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\bin\Debug\TEST_TCP.exe.config
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\bin\Debug\TEST_TCP.exe
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\bin\Debug\TEST_TCP.pdb
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\bin\Debug\SimpleTCP.dll
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.csproj.AssemblyReference.cache
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.Form1.resources
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.Properties.Resources.resources
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.csproj.GenerateResource.cache
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.csproj.CoreCompileInputs.cache
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.csproj.CopyComplete
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.exe
+C:\Users\PSC\OneDrive - Industrial University of HoChiMinh City\Documents\esp_basic\application\TEST_TCP\TEST_TCP\obj\Debug\TEST_TCP.pdb
